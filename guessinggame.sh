@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # File: guessinggame.sh
-
+  
 echo "Let's play a game!"  
 echo "Take a guess of how many files you have:"
 echo "Pick a number, any number!"; read guess
